@@ -45,7 +45,7 @@ public class CreateProductActivity extends AppCompatActivity {
     private ListProductsViewModel viewModel;
     private Product product;
     private Bitmap image;
-    //
+    //commit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
