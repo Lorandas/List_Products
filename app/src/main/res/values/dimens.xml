@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_max_st">16dp</dimen>
+    <dimen name="margin_min_st">8dp</dimen>
+
+    <dimen name="padding_min_st">8dp</dimen>
+    <dimen name="padding_max_st">16dp</dimen>
+
+    <dimen name="image_height">40dp</dimen>
+    <dimen name="image_width">55dp</dimen>
+
+    <dimen name="main_text">12sp</dimen>
+    <dimen name="other_text">10sp</dimen>
+
+    <dimen name="imgbtn_ic_min_height">50dp</dimen>
+    <dimen name="imgbtn_ic_min_width">50dp</dimen>
+    <dimen name="btn_min_size_height">50dp</dimen>
+    <dimen name="spinner_min_size_height">35dp</dimen>
+    <dimen name="edittext_min_size_height">35dp</dimen>
+</resources>

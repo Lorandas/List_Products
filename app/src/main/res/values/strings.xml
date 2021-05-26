@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Yummy</string>
+
+    <string name="select">Выбрать</string>
+    <string name="remove">Убрать</string>
+
+    <string name="products">Продукты</string>
+    <string name="list">Список</string>
+
+    <string name="hint_name_product">Название продукта</string>
+    <string name="hint_price">Цена</string>
+    <string name="hint_weight">Вес/Кол</string>
+    <string name="btn_complete">Применить</string>
+
+    <string name="not_indicated">Не указано</string>
+
+    <string-array name="type_weight">
+        <item>-</item>
+        <item>шт</item>
+        <item>кг</item>
+        <item>г</item>
+        <item>л</item>
+        <item>мл</item>
+        <item>упк</item>
+    </string-array>
+
+<!--    <string name="symbol_currency">₽</string>-->
+    <string name="symbol_currency">₴</string>
+    <string name="null_image">null</string>
+    <string name="text_total_price">Общая сумма:</string>
+</resources>
